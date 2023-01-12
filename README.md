@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **cybersecurity, linux**
 
-<!-- - 📫 How to reach me **godswillmante1@outlook.com**
+- 📫 How to reach me **yourtechiewill@gmail.com**
 
-- 📄 Know about my experiences [resume.link/here](resume.link/here)
+<!--- - 📄 Know about my experiences [resume.link/here](resume.link/here)
 
 - ⚡ Fun fact **I lot hidden under the smile.** -->
 
