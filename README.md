@@ -1,7 +1,7 @@
 <img src=https://rishavanand.github.io/static/images/greetings.gif width=500px height=200px align=center>
 
 <h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">I’m most passionate about emerging trends and developments in Information Technology and their application in business environments to improve processes and create value. I'm probably not the typical dev but I make use of technologies to solve problems and enhance productivity.</h3>
+<h3 align="center">I’m most passionate about emerging trends and developments in Information Technology and their application in business environments to improve processes and create value. I'm determined to become a skilled professional with the technical knowledge base, combined with exemplary soft skills in order to gain more experience as well as apply these skills to create a better and secure digital world for everyone.</h3>
 
 <br>
 
