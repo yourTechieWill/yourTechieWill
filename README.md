@@ -26,7 +26,7 @@
 <a href="https://twitter.com/yourtechiewill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourtechiewill" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/godswill-tawia-mante-2a7512b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="godswill-tawia-mante-2a7512b0" height="30" width="40" /></a>
 <a href="https://medium.com/@yourtechiewill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yourtechiewill" height="30" width="40" /></a>
-<a href="https://discord.gg/inn0centBreaker#4758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inn0centBreaker#4758" height="30" width="40" /></a>
+<a href="https://discord.gg/yourTechieWill#4758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yourTechieWill#4758" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
